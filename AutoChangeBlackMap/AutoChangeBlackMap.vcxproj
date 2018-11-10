@@ -213,10 +213,15 @@
     <ResourceCompile Include="AutoChangeBlackMap.rc" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\Mr.LanYangYang\Desktop\object1黑图(1).pak" />
-    <None Include="C:\Users\Mr.LanYangYang\Desktop\自动换黑图小程序\back11黑图(1).pak" />
-    <None Include="C:\Users\Mr.LanYangYang\Desktop\自动换黑图小程序\半透明back11.pak" />
+    <None Include="..\back11.pak" />
+    <None Include="..\back11黑图(1).pak" />
+    <None Include="..\object.pak" />
+    <None Include="..\object1黑图(1).pak" />
+    <None Include="..\半透明back11.pak" />
+    <None Include="..\玩伴红心改原始.pak" />
+    <None Include="..\钉子变星back11.pak" />
     <None Include="res\AutoChangeBlackMap.rc2" />
+    <None Include="res\pak4.bin" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\AutoChangeBlackMap.ico" />
